@@ -1,1 +1,8 @@
-
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "Simple web calculator",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
